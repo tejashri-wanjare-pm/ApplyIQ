@@ -1,0 +1,6 @@
+{
+  "name": "ApplyIQ",
+  "description": "Autonomous AI job hunting engine to seek roles, tailor resumes in seconds, prep for interviews, and monitor dynamic application trackers.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
